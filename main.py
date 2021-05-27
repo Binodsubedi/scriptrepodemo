@@ -1,4 +1,4 @@
-a= 10
-b = 20
-sum = a+b
-print(sum)
+a= 20
+b = 10
+sub = a-b
+print(sub)
